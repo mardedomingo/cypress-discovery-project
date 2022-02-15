@@ -1,7 +1,7 @@
 import signup from '../pages/SignupPage'
 import signinFactory from '../factories/SigninFactory'
 
-describe('Sign in', () => {
+describe('Sign up', () => {
 
     // beforeEach(function () {
     //     cy.fixture('deliveryGuy').then((d) => {
