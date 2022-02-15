@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Mar Domingos Soares",
+        "cpf": "12647126964",
+        "email": "mar-soares@gmail.com",
+        "whatsapp": "81998693211",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "complement": "Flat 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Ísis Reyfchnaider",
+        "cpf": "12647126964ASds",
+        "email": "isischagas@gmail.com",
+        "whatsapp": "81998693563",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "complement": "Flat 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+     "email_inv": {
+            "name": "Mar Domingos Soares",
+            "cpf": "12647126964",
+            "email": "mar-soares.com.br",
+            "whatsapp": "81998693211",
+            "address": {
+                "postalcode": "04534011",
+                "street": "Rua Joaquim Floriano",
+                "number": "1000",
+                "complement": "Flat 142",
+                "district": "Itaim Bibi",
+                "city_state": "São Paulo/SP"
+            },
+            "delivery_method": "Van/Carro",
+            "cnh": "cnh-digital.jpg"
+    }
+}
